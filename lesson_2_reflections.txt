@@ -1,3 +1,11 @@
 Q. What happens when you initialize a repository? Why do you need to do it?
 
-A. When you initialize a repository, git will begin to track the files within the repo. You need to do it in order to use the features within git and github. 
+A. When you initialize a repository, git will begin to track the files within the repo. You need to do it in order to use the features within git and Github. 
+—————————————————————————
+
+Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A. The working directory is the folder that you are currently located in and the repository is a “box” that stores all commits of a file. The staging area is valuable because it allows you to select a certain amount of files to select before committing to the repository. 
+—————————————————————————
+
+
