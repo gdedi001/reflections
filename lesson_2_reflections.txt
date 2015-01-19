@@ -8,4 +8,23 @@ Q. How is the staging area different from the working directory and the reposito
 A. The working directory is the folder that you are currently located in and the repository is a “box” that stores all commits of a file. The staging area is valuable because it allows you to select a certain amount of files to select before committing to the repository. 
 —————————————————————————
 
+Q. How can you use the staging area to make sure you have one commit per logical change?
+
+A. The staging area is an intermediate tool that allows more precise control over logical changes from the working directory and the repository itself. With the conceptual idea of a staging area in place, we can think differently on how to go about making commits therefor creating a more semantic and organized approach to the flow of work. 
+—————————————————————————
+
+Q. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A. Branches would help keep your history organized because it allows you to extract the current code, manipulate it and keep it separate from the current code. An example would be when you want to experiment with a program to see different outcomes without changing the original code. 
+——————————————————————————
+
+Q. How do the diagrams help you visualize the branch structure?
+
+A. Diagrams help me visualize the branch structure because it keeps each branch organized and documented in such a way that is easy to see and understand. An example of the benefits of diagrams can be seen when we try to determine the reachability of particular commits and their location. 
+——————————————————————————————
+
+Q. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A. When we merge two branches together, we get a new master branch that contains all the changes from the original branch as well as the new branch. We represent it the way we do because it allows us to visualize merging in such a way that it is easy to understand and keep track of. 
+—————————————————————————————
 
