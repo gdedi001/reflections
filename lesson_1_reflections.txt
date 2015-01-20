@@ -5,7 +5,7 @@ A. Viewing a diff between two versions of a file helped me see the bug because t
 
 Q. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
-A. Reviewing code will be easier, and you will be able to see how much you have improved over time. 
+A. Reviewing code will be easier and you will be able to see how much you have improved over time. 
 ———————————————————————————
 
 
