@@ -2,3 +2,6 @@ Q. When would you want to use a remote repository rather than keeping all your w
 
 A. Collaborating on projects over GitHub.
 -------------------------------------
+Q. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+A. You might decide to remove a branch or change certain aspects of the repo. 
